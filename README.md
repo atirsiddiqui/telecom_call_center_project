@@ -1,2 +1,2 @@
-# ucce_call_center_project
-Cisco UCCE Call Center Data Analysis Project
+# Telecom_call_center_project
+This dataset is based on real call center records. 
