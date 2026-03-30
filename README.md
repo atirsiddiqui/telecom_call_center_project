@@ -57,11 +57,8 @@ This matters because poor service leads to:
 ---
 
 ## 📂 Repository Structure
-├── data/                # Raw and processed datasets 
-├── notebooks/           # Jupyter/Colab notebooks for analysis 
-├── reports/             # Documentation and findings 
-├── src/                 # Source code for data processing & visualization 
-└── README.md            # Project overview
+├── data/                # Raw and processed datasets ├── notebooks/           # Jupyter/Colab notebooks for analysis ├── reports/             # Documentation and findings ├── src/                 # Source code for data processing & visualization └── README.md            # Project overview
+
 
 ---
 
