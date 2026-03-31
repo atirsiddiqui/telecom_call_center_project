@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 This project addresses **customer dissatisfaction** in a global telecom call center.  
-Customers report **slow service and unresolved complaints**, while call center teams blame **technical issues**.  
+Customers report **slow service and unresolved complaints**, while call center teams blame **technical issues** as a root cause.  
 The goal is to analyze performance data, identify root causes, and recommend actionable improvements.
 
 ---
@@ -43,7 +43,6 @@ This matters because poor service leads to:
 ## 📏 Scope of Analysis
 - **Performance Metrics** → Call volumes, wait times, resolution rates, escalations, customer feedback  
 - **Root Cause Identification** → Technical failures vs. workforce/process inefficiencies  
-- **Benchmarking** → Compare against industry standards & best practices  
 - **Recommendations** → Automation, workforce optimization, system upgrades  
 
 ---
@@ -59,10 +58,5 @@ This matters because poor service leads to:
 ## 🎯 Conclusion
 By analyzing call center performance, this project aims to **bridge the gap between customer expectations and operational delivery**.  
 The insights will guide **strategic improvements** in technology, workforce management, and customer service processes.
-
----
-
-## 📂 Repository Structure
-├── data/                # Raw and processed datasets ├── notebooks/           # Jupyter/Colab notebooks for analysis ├── reports/             # Documentation and findings ├── src/                 # Source code for data processing & visualization └── README.md            # Project overview
 
 ---
